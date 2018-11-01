@@ -1,0 +1,9 @@
+{
+  "commitish" : "4.0.4",
+  "iOS" : [
+    {
+      "name" : "Reusable",
+      "hash" : "fda2ba676e50b1bb2a2ca72997747f7685a59bb91873cc51899fdd681d4c6a8f"
+    }
+  ]
+}
